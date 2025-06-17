@@ -4,6 +4,7 @@ invented_by: IBM
 display_name: PC Speaker (aka System Speaker)
 short_description: A PC speaker is a loudspeaker built into some IBM PC compatible computers.
 related: chiptune, 8bit, beep
+created_by: GeniusPilot2016
 date_invented: 1981
 topic: pc-speaker
 logo: PC-Speaker_IMG_8161_(cropped).JPG
