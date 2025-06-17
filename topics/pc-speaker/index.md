@@ -1,6 +1,5 @@
 ---
 aliases: system-speaker, motherboard-speaker, motherboard-beeper, motherboard-buzzer
-created_by: GeniusPilot2016
 invented_by: IBM
 display_name: PC Speaker (aka System Speaker)
 short_description: A PC speaker is a loudspeaker built into some IBM PC compatible computers.
